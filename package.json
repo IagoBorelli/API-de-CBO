@@ -1,23 +1,16 @@
 {
-  "name": "api-cbos",
+  "name": "cbo",
   "version": "1.0.0",
-  "description": "Perfeito! Aqui está uma documentação completa, profissional e organizada para você colocar no seu **README.md** do repositório da API de CBO.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/IagoBorelli/API-de-CBO.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/IagoBorelli/API-de-CBO/issues"
-  },
-  "homepage": "https://github.com/IagoBorelli/API-de-CBO#readme",
+  "description": "",
   "dependencies": {
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2"
   }
 }
