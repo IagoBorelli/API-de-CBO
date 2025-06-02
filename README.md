@@ -243,8 +243,8 @@ Authorization: Bearer SEU_TOKEN_AQUI
 
 ## 👨‍💻 Desenvolvido por
 
-**Seu Nome**
-[Seu GitHub](https://github.com/iagoborelli)
-[Seu LinkedIn](https://linkedin.com/in/iagoborelli)
+**Iago Borelli**
+[Github](https://github.com/iagoborelli)
+[LinkedIn](https://linkedin.com/in/iagoborelli)
 
 ---
