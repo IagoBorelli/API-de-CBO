@@ -1,6 +1,3 @@
-Perfeito! Aqui está uma documentação completa, profissional e organizada para você colocar no seu **README.md** do repositório da API de CBO.
-
----
 
 # 📄 API de CBO – Classificação Brasileira de Ocupações
 
